@@ -6,7 +6,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
+1. -www.videoland.com-
 2. -bron 2-
 3. -...-
 
@@ -38,11 +38,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Even inkomen met het coden.
+HTML met 2 keer feedback gelukt.
+CSS nog niet aan toe gekomen.
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+De html staat op een paar svg's na. Deze staan niet als svg's op de website.
+Ik ben er nog niet achter hoe ik deze dan kan ophalen.
+<img src="/images/voortgang1.png" width="375px" alt="Voortgang 1">
 
 ### Agenda voor meeting
 
@@ -50,19 +54,21 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 | student 1      | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| het ophalen    | en dit             | en ik dit    | en dan ik dat    |
+| van svg's die  |
+niet als svg     |
+staan opgesteld. | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 ### Verslag van meeting
-
+ 
 -na afloop snel uitkomsten vastleggen-
 
 
 
 ## Breakdownschets (week 1)
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
+<img src="/images/breakdown.jpg" width="375px" alt="De breakdown schets van Videoland">
 
 
 
@@ -77,8 +83,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/home.png" width="375px" alt="De startpagina van Videoland">
+<img src="/images/home.png" width="375px" alt="De startpagina van Videoland">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/series.png" width="375px" alt="De detail pagina van Videoland">
+<img src="/images/series.png" width="375px" alt="De detail pagina van Videoland">
