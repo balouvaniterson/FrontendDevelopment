@@ -71,6 +71,24 @@ header {
 
   }
 
+  header nav ul li:nth-of-type(2) {
+  
+
+  }
+  
+
+  header nav ul li:nth-of-type(2) a {
+    background-image: url('/checkbox.svg');
+    width: 20px;
+    height: 20px;
+    display: block;
+  }
+
+  header nav ul li:nth-of-type(2) a span{
+    display: none;
+ 
+  }
+
 main {
 
 }

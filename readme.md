@@ -68,7 +68,7 @@ staan opgesteld. | dit als er tijd is | nog een punt | dit wil ik zeker |
 
 ## Breakdownschets (week 1)
 
-<img src="/images/breakdown.jpg" width="375px" alt="De breakdown schets van Videoland">
+<img src="/images/Breakdown.jpg" width="375px" alt="De breakdown schets van Videoland">
 
 
 
@@ -83,8 +83,8 @@ staan opgesteld. | dit als er tijd is | nog een punt | dit wil ik zeker |
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="/images/home.png" width="375px" alt="De startpagina van Videoland">
+<img src="/images/Home.png" width="375px" alt="De startpagina van Videoland">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="/images/series.png" width="375px" alt="De detail pagina van Videoland">
+<img src="/images/Seriedetail.png" width="375px" alt="De detail pagina van Videoland">
