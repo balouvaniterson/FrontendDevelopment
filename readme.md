@@ -54,12 +54,14 @@ Ik ben er nog niet achter hoe ik deze dan kan ophalen.
 
 | student 1      | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| het ophalen    | en dit             | en ik dit    | en dan ik dat    |
+| van svg's die  |
+niet als svg     |
+staan opgesteld. | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 ### Verslag van meeting
-
+ 
 -na afloop snel uitkomsten vastleggen-
 
 
