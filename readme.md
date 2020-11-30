@@ -46,7 +46,7 @@ CSS nog niet aan toe gekomen.
 
 De html staat op een paar svg's na. Deze staan niet als svg's op de website.
 Ik ben er nog niet achter hoe ik deze dan kan ophalen.
-<img src="images/voortgang1.png" width="375px" alt="Voortgang 1">
+<img src="/images/voortgang1.png" width="375px" alt="Voortgang 1">
 
 ### Agenda voor meeting
 
@@ -66,7 +66,7 @@ Ik ben er nog niet achter hoe ik deze dan kan ophalen.
 
 ## Breakdownschets (week 1)
 
-<img src="images/breakdown.jpg" width="375px" alt="De breakdown schets van Videoland">
+<img src="/images/breakdown.jpg" width="375px" alt="De breakdown schets van Videoland">
 
 
 
@@ -81,8 +81,8 @@ Ik ben er nog niet achter hoe ik deze dan kan ophalen.
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/home.png" width="375px" alt="De startpagina van Videoland">
+<img src="/images/home.png" width="375px" alt="De startpagina van Videoland">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/series.png" width="375px" alt="De detail pagina van Videoland">
+<img src="/images/series.png" width="375px" alt="De detail pagina van Videoland">
