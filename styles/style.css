@@ -8,6 +8,7 @@ html {
 }
 body {
   font-size:1.25em;
+  background-color: #111 ;
 }
 h1 {
   color:red;
@@ -43,25 +44,6 @@ button {
   
 }
 
-/* form styling */
-form {
-  
-}
-  fieldset {
-
-  }
-    legend {
-
-    }
-    label {
-
-    }
-    input {
-
-    }
-    input:invalid {
-
-    }
 
 /* Section styling */
 header {
@@ -71,20 +53,91 @@ header {
 
   }
 
-  header nav ul li:nth-of-type(2) {
+  header nav ul {
+    display: grid;
+    grid-template-columns: 40px 50px 30px 30px 30px;
   
 
   }
-  
 
-  header nav ul li:nth-of-type(2) a {
-    background-image: url('/checkbox.svg');
-    width: 20px;
+
+  header nav ul li {
+   
+    list-style-type: none;
+  }
+
+  /* Menu Item 1 */
+  
+  header nav ul li:nth-of-type(1) a {
+    background-image: url('/menu.svg');
+    background-color: white;
+    background-size: contain;
     height: 20px;
+    width: 25px;
+    margin: 5px 16px 0px 0px;
     display: block;
   }
 
+  header nav ul li:nth-of-type(1) a span{
+    display: none;
+  }
+
+   /* Menu Item 2 */
+
+  header nav ul li:nth-of-type(2) a {
+    
+
+  }
+
   header nav ul li:nth-of-type(2) a span{
+    display: none;
+ 
+  }
+
+     /* Menu Item 3*/
+
+
+   header nav ul li:nth-of-type(3) a {
+    background-image: url('/search1.svg');
+    fill: white;
+    width: 30px;
+    height: 30px;
+    display: block;
+    margin-left: 100px;
+  }
+
+  header nav ul li:nth-of-type(3) a span{
+    display: none;
+ 
+  }
+
+   /* Menu Item 4*/
+
+  header nav ul li:nth-of-type(4) a {
+    background-image: url('/checkbox.svg');
+    width: 30px;
+    height: 30px;
+    display: block;
+    margin-left: 100px;
+  }
+
+  header nav ul li:nth-of-type(4) a span{
+    display: none;
+ 
+  }
+
+  /* Menu Item 5*/
+
+
+  header nav ul li:nth-of-type(5) a {
+    background-image: url('/profile.svg');
+    width: 30px;
+    height: 30px;
+    display: block;
+    margin-left: 100px;
+  }
+
+  header nav ul li:nth-of-type(5) a span{
     display: none;
  
   }
