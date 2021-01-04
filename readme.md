@@ -30,8 +30,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
-
+HTML structuur staat.
+CSS Header bijna afgerond.
 
 
 ## Voortgang 1 (week 3)
