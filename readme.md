@@ -7,8 +7,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. -www.videoland.com-
-2. -bron 2-
-3. -...-
+2. - https://css-tricks.com/full-width-containers-limited-width-parents/ -
+3. - https://css-tricks.com/snippets/css/a-guide-to-flexbox/ -
 
 
 
@@ -18,7 +18,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+Pages: https://postimg.cc/gallery/CFJnfjh
 
 
 
