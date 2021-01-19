@@ -109,7 +109,7 @@ header nav ul li:nth-of-type(2) a span {
 
 
 header nav ul li:nth-of-type(3) a {
-  background-image: url('/search1.svg');
+  background-image: url('FrontendDevelopment/search1.svg');
   fill: white;
   width: 23px;
   height: 23px;
